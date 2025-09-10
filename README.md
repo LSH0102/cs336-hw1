@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS336 Spring 2025 Assignment 1: Basics
 
 For a full description of the assignment, see the assignment handout at
@@ -48,3 +49,11 @@ gunzip owt_valid.txt.gz
 cd ..
 ```
 
+=======
+# cs336-implementation
+My implementation of homework of cs336
+
+## Assignment1
+need to download the datas, as instructed in the official repo of cs336.
+Passed all tests except for the test that should have failed(test_encode_memory_usage(), marked with XFAIL)
+>>>>>>> 51a4b42b36bafad8d960c8212d67be094f8e5f54
